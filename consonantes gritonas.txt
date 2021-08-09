@@ -1,0 +1,2 @@
+Realizar una funcion que tome como parametro una plabra y que de la palabra saque las consonantes y 
+las convierta en mayuscula 
